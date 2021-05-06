@@ -4,7 +4,7 @@
 
 # Site
 title: wapchief的博客
-subtitle: Android、IT互联网
+subtitle: Android、Flutter
 description: 移动端开发，不仅限于原生，Taro，Flutter等跨平台方案皆有项目涉及。
 author: Wap Chief
 language: zh-Hans
@@ -72,7 +72,7 @@ deploy:
   type: git
   repo: http://github.com/wapchief/wapchief.github.io.git
   branch: master
-
+# yilia插件
 jsonContent:
   meta: false
   pages: false
@@ -91,3 +91,6 @@ jsonContent:
     excerpt: false
     categories: false
     tags: true
+# 播放器插件    
+aplayer:
+  meting: true    
