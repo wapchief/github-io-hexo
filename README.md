@@ -19,4 +19,4 @@ git删除命令操作
 ｜- themes
 当前主题配置
 _config.yml     
-    theme: yilia
+    theme: [yilia](https://github.com/litten/hexo-theme-yilia)

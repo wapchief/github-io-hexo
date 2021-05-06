@@ -132,7 +132,9 @@ live2d:
   enable: true
   mobile:
     show: true
-    scale: 0.5  
+    scale: 0.5
+  dialog: 
+    enable: true  
 
 
   
